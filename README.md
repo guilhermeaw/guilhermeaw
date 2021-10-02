@@ -23,7 +23,7 @@
 [![Guilherme Weissheimer](https://img.shields.io/badge/-Guilherme%20Weissheimer-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-weissheimer/)](https://www.linkedin.com/in/guilherme-weissheimer/)&nbsp;
 [![guilhermeaw9@gmail.com](https://img.shields.io/badge/-guilhermeaw9@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeaw9@gmail.com)](mailto:guilhermeaw9@gmail.com)&nbsp;
 
-<br/>
+### My profile overview:
 <img src="https://github-readme-stats.vercel.app/api?username=guilhermeaw&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&text_color=8b949e&icon_color=8b949e&bg_color=0d1117&theme=dracula">
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeaw&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=8b949e&icon_color=8b949e&bg_color=0d1117&theme=dracula">
