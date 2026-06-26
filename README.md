@@ -1,5 +1,5 @@
 ### Hi there, I'm Guilherme 👋
-💻 Front-end developer at [@Softplan](https://www.softplan.com.br/)  <br>
+💻 Front-end developer at [@Remento](https://www.remento.co/)  <br>
 🇧🇷 Brazilian <br>
 <br/>
 
